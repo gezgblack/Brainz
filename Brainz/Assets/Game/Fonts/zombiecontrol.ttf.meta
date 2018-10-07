@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a3fe3d2ccc62c3241ab04cfc206098ed
+timeCreated: 1496363648
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Control
+  fontNames:
+  - Zombie Control
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
